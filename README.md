@@ -14,7 +14,7 @@ How to apply? Send a email to `projectdecarbon@protonmail.ch` with a introductio
 
 [Rust Backend Engineer](https://github.com/0xCarbon/jobs#rust-backend-engineer)
 
-[React Frontend Engineer](https://github.com/0xCarbon/jobs#react-frontend-engineer)
+~[React Frontend Engineer](https://github.com/0xCarbon/jobs#react-frontend-engineer)~ filled
 
 ***
 ### UI/UX Designer
@@ -53,7 +53,7 @@ The job:
 If you master Rust and has a good grasp of cryptography and SQL. We want to talk.
 
 ---
-### React Frontend Engineer
+~### React Frontend Engineer~
 
 Looking for fresh graduated frontend engineers with interest in Blockchain and energy decarbonization.
 

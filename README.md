@@ -8,16 +8,16 @@
 
 How to apply? Send a email to `projectdecarbon@protonmail.ch` with a introduction and CV in PDF format.
 
-[UI/UX Designer](https://github.com/0xCarbon/jobs#uiux-designer)
+~[UI/UX Designer](https://github.com/0xCarbon/jobs#uiux-designer)~ filled
 
 [EVM Engineer](https://github.com/0xCarbon/jobs#evm-engineer)
 
-[Rust Backend Engineer](https://github.com/0xCarbon/jobs#rust-backend-engineer)
+~[Rust Backend Engineer](https://github.com/0xCarbon/jobs#rust-backend-engineer)~ filled
 
 ~[React Frontend Engineer](https://github.com/0xCarbon/jobs#react-frontend-engineer)~ filled
 
 ***
-### UI/UX Designer
+~### UI/UX Designer~
 
 Looking for fresh graduated UI/UX designer with interest in Blockchain and energy decarbonization.
 
@@ -48,7 +48,7 @@ The job:
 * We will build a new EIP-1155 or EIP-721 based standard and scrow system for NFT trading contracts.
 
 ---
-### Rust Backend Engineer
+~### Rust Backend Engineer~
 
 If you master Rust and has a good grasp of cryptography and SQL. We want to talk.
 

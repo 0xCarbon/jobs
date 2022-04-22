@@ -2,8 +2,6 @@
 
  0xCarbon is a self-funded software consultancy company started by crypto and energy industry veterans that is building under contract for startups in the blockchain sector with a special focus on decabornization of the energy industry.
  
-**All postions are for starting in Mid March or April**
-
 **All positions include equity offerings in startups that 0xCarbon provides services for + 0xCarbon equity itself.**
 
 How to apply? Send a email to `projectdecarbon@protonmail.ch` with a introduction and CV in PDF format.

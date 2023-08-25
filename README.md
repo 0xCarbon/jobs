@@ -1,14 +1,16 @@
 ## Job Openings
 
- 0xCarbon is a self-funded software consultancy company started by crypto and energy industry veterans that is building under contract for startups in the blockchain sector with a special focus on decabornization of the energy industry.
+*NO OPENINGS CURRENTLY, PLEASE CHECK AGAIN IN A COUPLE MONTHS*
+
+ 0xCarbon is a bootstraped software consultancy company started by crypto and energy industry veterans that builds under contract for startups.
  
 **All positions include equity offerings in startups that 0xCarbon provides services for + 0xCarbon equity itself.**
 
-How to apply? Send a email to `projectdecarbon@protonmail.ch` with a introduction and CV in PDF format.
+How to apply? Send a email to `contato@0xcarbon.org` with a introduction and CV in PDF format.
 
 ~[UI/UX Designer](https://github.com/0xCarbon/jobs#uiux-designer)~ filled
 
-[EVM Engineer](https://github.com/0xCarbon/jobs#evm-engineer)
+~[EVM Engineer](https://github.com/0xCarbon/jobs#evm-engineer)~ filled
 
 ~[Rust Backend Engineer](https://github.com/0xCarbon/jobs#rust-backend-engineer)~ filled
 
